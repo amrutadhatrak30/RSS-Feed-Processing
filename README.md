@@ -6,5 +6,6 @@ Steps to run the python script:
   3. Install FeedParser library using the command - "pip install feedparser".
   4. Run rss2html_conv.py from the python IDE.
   5. Your output HTML page should be created as formatted_news_page.html as HTML file in your directory.
+I have provided a sample output file generated after running my code for refernce - sample_output.html.
 
 
